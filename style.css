@@ -1,0 +1,104 @@
+.bg1{
+
+    background-image:url(https://preview.colorlib.com/theme/gutim/img/hero-bg.jpg.webp);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.button1{
+   margin-left: 100px;
+}
+.nav1{
+    padding-left: 200px;
+}
+
+.t{
+    color: orangered;
+}
+.hc{
+    color: black;
+}
+.b3p{
+    padding-left: 170px;
+    /* margin-left: 3px; */
+}
+.p1{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    margin-right: 30px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-2.jpg.webp");
+}
+.p2{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    margin-right: 30px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-5.jpg.webp");
+}
+.p3{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    margin-right: 30px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-1.jpg.webp");
+}
+.p4{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    margin-right: 30px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-4.jpg.webp");
+}
+.p5{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-3.jpg.webp");
+}
+.p6{
+    height: 255px;
+    width: 370px;
+    margin-bottom: 25px;
+    background-image: url("https://preview.colorlib.com/theme/gutim/img/classes/classes-6.jpg.webp");
+}
+.pa1{
+     margin-top: 180px;
+}
+
+.cs1{
+     height: 27em; 
+    background-color: white;
+    text-align: center;
+    padding-top: 0px;
+}
+ .ci{
+    margin-top: 100px;
+    margin-left: 480px;
+}
+.b7bi{
+    background-image: url(https://preview.colorlib.com/theme/gutim/img/banner-bg.jpg.webp);
+}
+.b7p{
+    margin-top: 130px;
+}
+.b8b{
+    margin-left: 80px;
+}
+.fim1{
+background-image: url(https://preview.colorlib.com/theme/gutim/img/footer-banner/footer-banner-1.jpg.webp);
+height: 60vh;
+}
+.fim2{
+    background-image: url(https://preview.colorlib.com/theme/gutim/img/footer-banner/footer-banner-2.jpg.webp);
+    height: 60vh;
+}
+.fim3{
+    background-image: url(https://preview.colorlib.com/theme/gutim/img/footer-signup.jpg.webp);
+    height: 20vh;
+}
+.wh{
+    height: 70vh;
+}
